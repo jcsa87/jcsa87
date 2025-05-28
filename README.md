@@ -1,6 +1,6 @@
 <!-- main image -->
 <div align="center">
-    <img src="resources/sisyphus.jpg" width="180" alt="sisyphus">
+    <img src="resources/sisyphus.jpg" alt="sisyphus">
 </div>
 
 <!-- saludate -->
@@ -14,6 +14,6 @@
 <h3 align="center">languages & tools</h3>
 <br>
 <div align="center">
-    <img  height="80" src="resources/row1.1.png"><br>
-    <img height="80" src="resources/row1.2.png"><br>
+    <img  height="100" src="resources/row1.1.png"><br>
+    <img height="100" src="resources/row1.2.png"><br>
 </div>
