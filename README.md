@@ -8,5 +8,5 @@
 <br>
 <div align="center">
     <img src="resources/row1.1.png"><br>
-    <img src="resources/row2.png"><br>
+    <img src="resources/row1.2.png"><br>
 </div>
