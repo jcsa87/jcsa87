@@ -7,6 +7,6 @@
 <h3 align="center">languages/tools that i've worked on</h3>
 <br>
 <div align="center">
-    <img  height="800" src="resources/row1.1.png"><br>
-    <img height="150" src="resources/row1.2.png"><br>
+    <img  height="100" src="resources/row1.1.png"><br>
+    <img height="100" src="resources/row1.2.png"><br>
 </div>
