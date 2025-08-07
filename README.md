@@ -6,7 +6,7 @@
 <!-- saludate -->
 <div align="center">
     <p>
-        student at UNNE. Aspiring front-end developer.<br>
+        student at UNNE.<br>
     </p>
 </div>
 
