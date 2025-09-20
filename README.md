@@ -1,8 +1,3 @@
-<!-- main image -->
-<div align="center">
-    <img src="resources/sisyphus.jpg" alt="sisyphus">
-</div>
-
 <!-- saludate -->
 <div align="center">
     <p>
