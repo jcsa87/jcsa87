@@ -6,7 +6,7 @@
 </div>
 
 <!-- tools/languages -->
-<h3 align="center">languages & tools</h3>
+# languages & tools 
 <br>
 <div align="center">
     <img  height="100" src="resources/row1.1.png"><br>
