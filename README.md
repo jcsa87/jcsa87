@@ -1,43 +1,51 @@
 <img src="resources/sisifo-1.jpg"><br>
 
-<!-- tools/languages -->
-# languages & tools
+# 🧠 languages & tools
 <br>
 
-<div align="left">
+<div align="center">
 
-<!-- 💻 Programming -->
-<h3>💻 Programming</h3>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<!-- 🌐 Frontend -->
+<h3>🌐 Frontend</h3>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vite,js&perline=6" />
 
 <br><br>
 
-<!-- 🌐 Web & Frameworks -->
-<h3>🌐 Web & Frameworks</h3>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodeIgniter-DD4814?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<!-- ⚙️ Backend / Languages -->
+<h3>⚙️ Backend / Languages</h3>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,nodejs,php,codeigniter,mysql&perline=6" />
 
 <br><br>
 
-<!-- 🎨 Design -->
-<h3>🎨 Design</h3>
-
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<!-- 🎨 Others -->
+<h3>🎨 Others</h3>
+<img src="https://skillicons.dev/icons?i=photoshop,github,git,vscode,figma&perline=6" />
 
 </div>
 
 <br>
 
-<p>
+---
+
+## 🤝 Connect with me
+<div align="center">
+  
+<a href="mailto:juancruzsenicenacosta@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/juan-cruz-senicen-acosta-a93430203/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://discordapp.com/users/promesasimprudentes">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<p align="center">
 student at UNNE. 21 y/o.
 </p>
