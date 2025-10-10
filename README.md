@@ -13,7 +13,7 @@ student at UNNE. 21 y/o.
 <!-- 🌐 Frontend -->
 <td valign="top" width="33%">
   
-### 🌐 Frontend  
+### Frontend  
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&perline=4" /> 
 </div>
@@ -23,7 +23,7 @@ student at UNNE. 21 y/o.
 <!-- ⚙️ Languages -->
 <td valign="top" width="33%">
   
-### ⚙️ Languages  
+### Languages  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,python,nodejs,php,mysql&perline=4" /> 
 </div>
@@ -33,7 +33,7 @@ student at UNNE. 21 y/o.
 <!-- 🎨 Others -->
 <td valign="top" width="33%">
   
-### 🎨 Others  
+### Others  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=photoshop,github,git,vscode,figma,vercel,discord&perline=4" /> 
 </div>
