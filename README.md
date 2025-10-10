@@ -1,3 +1,5 @@
+<img  src="resources/sisifo-1.jpg"><br>
+
 <!-- tools/languages -->
 # languages & tools 
 <br>
