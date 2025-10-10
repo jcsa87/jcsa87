@@ -1,6 +1,6 @@
 <img src="resources/sisifo-1.jpg"><br>
 
-#languages & tools
+##languages & tools
 <br>
 
 <div align="left">
