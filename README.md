@@ -10,19 +10,19 @@ student at UNNE. 21 y/o.
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- 🌐 Frontend -->
-  <div align="center" style="border: 1px solid #21262d; border-radius: 8px; padding: 15px; width: 220px;">
+  <div align="center" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; width: 220px;">
     <h3>Frontend</h3>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&perline=3" />
   </div>
 
   <!-- ⚙️ Languages / Backend -->
-  <div align="center" style="border: 1px solid #21262d; border-radius: 8px; padding: 15px; width: 220px;">
+  <div align="center" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; width: 220px;">
     <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=java,cpp,python,nodejs,php,codeigniter,mysql&perline=3" />
   </div>
 
   <!-- 🎨 Others -->
-  <div align="center" style="border: 1px solid #21262d; border-radius: 8px; padding: 15px; width: 220px;">
+  <div align="center" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; width: 220px;">
     <h3>Others</h3>
     <img src="https://skillicons.dev/icons?i=photoshop,github,git,vscode,figma&perline=3" />
   </div>
