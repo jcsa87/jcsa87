@@ -1,24 +1,24 @@
 <img src="resources/sisifo-1.jpg"><br>
 
-# 🧠 languages & tools
+#languages & tools
 <br>
 
-<div align="center">
+<div align="left">
 
 <!-- 🌐 Frontend -->
-<h3>🌐 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vite,js&perline=6" />
+<h3>🌐</h3>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&perline=6" />
 
 <br><br>
 
 <!-- ⚙️ Backend / Languages -->
-<h3>⚙️ Backend / Languages</h3>
+<h3>⚙️</h3>
 <img src="https://skillicons.dev/icons?i=java,cpp,python,nodejs,php,codeigniter,mysql&perline=6" />
 
 <br><br>
 
 <!-- 🎨 Others -->
-<h3>🎨 Others</h3>
+<h3>🎨</h3>
 <img src="https://skillicons.dev/icons?i=photoshop,github,git,vscode,figma&perline=6" />
 
 </div>
@@ -27,7 +27,7 @@
 
 ---
 
-## 🤝 Connect with me
+##my contact
 <div align="center">
   
 <a href="mailto:juancruzsenicenacosta@gmail.com">
