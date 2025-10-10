@@ -13,7 +13,6 @@ student at UNNE. 21 y/o.
 <h3>🌐</h3>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&perline=6" />
 
-<br><br>
 
 <!-- ⚙️ Backend / Languages -->
 <h3>⚙️</h3>
