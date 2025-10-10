@@ -1,6 +1,10 @@
 <img src="resources/sisifo-1.jpg"><br>
 
-##languages & tools
+<p align="left">
+student at UNNE. 21 y/o.
+</p>
+
+# languages & tools
 <br>
 
 <div align="left">
@@ -27,7 +31,7 @@
 
 ---
 
-##my contact
+## contact me
 <div align="center">
   
 <a href="mailto:juancruzsenicenacosta@gmail.com">
@@ -45,7 +49,3 @@
 </div>
 
 <br>
-
-<p align="center">
-student at UNNE. 21 y/o.
-</p>
