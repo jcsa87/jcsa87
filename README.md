@@ -4,7 +4,7 @@
 # languages & tools
 <br>
 
-<div align="center">
+<div align="left">
 
 <!-- 💻 Programming -->
 <h3>💻 Programming</h3>
@@ -38,6 +38,6 @@
 
 <br>
 
-<p align="center">
+<p>
 student at UNNE. 21 y/o.
 </p>
