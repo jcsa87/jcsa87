@@ -1,4 +1,8 @@
-<img src="resources/sisifo-1.jpg"><br>
+<!-- Banner con borde inferior tenue -->
+<div style="border-bottom: 1px solid #21262d; margin-bottom: 16px;">
+  <img src="resources/sisifo-1.jpg" alt="sísifo banner" style="display:block; width:100%; height:auto;">
+</div>
+
 
 <p align="left">
 student at UNNE. 21 y/o.
