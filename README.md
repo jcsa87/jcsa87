@@ -18,7 +18,6 @@ student at UNNE. 21 y/o.
 <h3>⚙️</h3>
 <img src="https://skillicons.dev/icons?i=java,cpp,python,nodejs,php,codeigniter,mysql&perline=6" />
 
-<br><br>
 
 <!-- 🎨 Others -->
 <h3>🎨</h3>
@@ -30,7 +29,7 @@ student at UNNE. 21 y/o.
 
 ---
 
-## contact me
+# contact me
 <div align="center">
   
 <a href="mailto:juancruzsenicenacosta@gmail.com">
