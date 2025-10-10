@@ -10,17 +10,16 @@ student at UNNE. 21 y/o.
 <div align="left">
 
 <!-- 🌐 Frontend -->
-<h3>🌐</h3>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&perline=6" />
 
 
 <!-- ⚙️ Backend / Languages -->
-<h3>⚙️</h3>
+
 <img src="https://skillicons.dev/icons?i=java,cpp,python,nodejs,php,codeigniter,mysql&perline=6" />
 
 
 <!-- 🎨 Others -->
-<h3>🎨</h3>
+
 <img src="https://skillicons.dev/icons?i=photoshop,github,git,vscode,figma&perline=6" />
 
 </div>
