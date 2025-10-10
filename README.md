@@ -1,7 +1,6 @@
-<!-- Banner con borde inferior tenue -->
-<div style="border-bottom: 1px solid #21262d; margin-bottom: 16px;">
-  <img src="resources/sisifo-1.jpg" alt="sísifo banner" style="display:block; width:100%; height:auto;">
-</div>
+<img src="resources/sisifo-1.jpg" alt="Sísifo empujando la roca"><br>
+<div style="height:1px; background:#21262d; margin:-4px 0 16px 0;"></div>
+
 
 
 <p align="left">
