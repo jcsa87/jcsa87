@@ -5,7 +5,7 @@
 
 
 <p align="left">
-student at UNNE. 21 y/o.
+estudiante de Licenciatura en Sistemas, UNNE. 21 años.
 </p>
 
 # languages & tools
