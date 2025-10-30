@@ -2,9 +2,9 @@
   <img src="resources/banners/degradados/degradado2.gif" alt="degradado_verde" style="display:block; width:100%; height:auto;">
 </div>
 
-<p align="left">
+<!-- <p align="left">
 estudiante de Licenciatura en Sistemas, UNNE. 21 años.
-</p>
+</p> -->
 
 # languages & tools
 
