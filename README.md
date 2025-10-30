@@ -1,14 +1,13 @@
 <div style="border-bottom: 1px solid #21262d; margin-bottom: 16px;">
-  <img src="resources/sisifo-1.jpg" alt="sísifo banner" style="display:block; width:100%; height:auto;">
+  <img src="resources/banners/degradados/degradado1.gif" alt="degradado_verde" style="display:block; width:100%; height:auto;">
 </div>
-
-
 
 <p align="left">
 estudiante de Licenciatura en Sistemas, UNNE. 21 años.
 </p>
 
 # languages & tools
+
 <br>
 
 <table>
@@ -52,6 +51,7 @@ estudiante de Licenciatura en Sistemas, UNNE. 21 años.
 ---
 
 # contact me
+
 <div align="center">
   
 <a href="mailto:juancruzsenicenacosta@gmail.com">
