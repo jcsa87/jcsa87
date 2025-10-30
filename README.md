@@ -1,5 +1,5 @@
 <div style="border-bottom: 1px solid #21262d; margin-bottom: 16px;">
-  <img src="resources/banners/degradados/degradado2.gif" alt="degradado_verde" style="display:block; width:100%; height:auto;">
+  <img src="resources/banners/degradados/degradado3.gif" alt="degradado_verde" style="display:block; width:100%; height:auto;">
 </div>
 
 # languages & tools
@@ -29,7 +29,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 <br>
 
